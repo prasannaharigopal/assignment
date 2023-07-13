@@ -1,0 +1,6 @@
+com\nagarro\clouddemo\service\UserServiceImpl.class
+com\nagarro\clouddemo\CloudDemoApi1Application.class
+com\nagarro\clouddemo\service\UserService.class
+com\nagarro\clouddemo\controller\userController.class
+com\nagarro\clouddemo\model\User.class
+com\nagarro\clouddemo\repository\UserRepository.class
